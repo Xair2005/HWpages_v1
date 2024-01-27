@@ -1,5 +1,5 @@
 # XAIR2005 Portfolio
-![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+![](https://github.com/Xair2005/HWpages_v1/img/logo_portfolio.png)
 *Xair2005* — знакомлючь с Python и остальными инструментами. А вообще, я сам ERP-специалист.
 С чем знаком:
 1. **SQL**
