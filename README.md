@@ -1,6 +1,6 @@
 # XAIR2005 Portfolio
 ![](https://github.com/Xair2005/HWpages_v1/img/logo_portfolio.png)
-*Xair2005* — знакомлючь с Python и остальными инструментами. А вообще, я сам ERP-специалист.
+*Xair2005* — знакомлюcь с Python и остальными инструментами. А вообще, я сам ERP-специалист.
 С чем знаком:
 1. **SQL**
 2. ERP
